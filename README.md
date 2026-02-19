@@ -28,8 +28,7 @@ Mən **React** və **Laravel** ekosistemlərindən istifadə edərək yüksək p
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quliyevmehemmed&layout=compact&theme=radical&hide_border=false" alt="Top Languages" />
 </p>
----
-
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=quliyevmehemmed&theme=radical)
 ### 📫 Mənimlə əlaqə:
 - **Email:** mquliyev.stack@gmail.com
 - **LinkedIn:** [linkedin.com/in/mehemmedquliyev](https://linkedin.com/in/mehemmedquliyev)
