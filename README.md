@@ -20,10 +20,14 @@ Mən **React** və **Laravel** ekosistemlərindən istifadə edərək yüksək p
 ---
 
 ### 📊 GitHub Statistikam
-![Mehemmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=quliyevmehemmed&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quliyevmehemmed&layout=compact&theme=radical)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=quliyevmehemmed&show_icons=true&theme=radical&hide_border=false" alt="Mehemmed's GitHub Stats" />
+</p>
 
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quliyevmehemmed&layout=compact&theme=radical&hide_border=false" alt="Top Languages" />
+</p>
 ---
 
 ### 📫 Mənimlə əlaqə:
