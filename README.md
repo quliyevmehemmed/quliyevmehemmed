@@ -1,4 +1,4 @@
-# Salam, Mən Mehemmed! 👋
+# Salam, Mən Məhəmməd! 👋
 
 ### 🚀 Full Stack Developer
 Mən **React** və **Laravel** ekosistemlərindən istifadə edərək yüksək performanslı və genişlənə bilən veb tətbiqləri hazırlayıram.
